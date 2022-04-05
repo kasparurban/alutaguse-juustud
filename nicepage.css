@@ -36898,16 +36898,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 50px auto 20px;
+  margin: 50px auto 0;
 }
 
 .u-footer .u-text-2 {
   width: 417px;
-  margin: 5px auto 0;
+  margin: 20px auto 0;
 }
 
 .u-footer .u-icon-1 {
-  vertical-align: 0px;
+  vertical-align: -1px;
+  font-size: 1.1429em;
 }
 
 .u-footer .u-social-icons-1 {
